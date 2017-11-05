@@ -37,5 +37,6 @@ hello
 
 ### Vagrant ###
 .vagrant/
+*.box
 
 # End of https://www.gitignore.io/api/c++,vagrant
