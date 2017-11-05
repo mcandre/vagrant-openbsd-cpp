@@ -1,5 +1,9 @@
 # vagrant-openbsd-cpp: a Vagrant box for building C/C++ binaries for OpenBSD
 
+# VAGRANT CLOUD
+
+https://app.vagrantup.com/mcandre/boxes/vagrant-openbsd-cpp
+
 # EXAMPLE
 
 ```console
