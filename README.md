@@ -2,7 +2,8 @@
 
 # VAGRANT CLOUD
 
-https://app.vagrantup.com/mcandre/boxes/vagrant-openbsd-cpp
+* https://app.vagrantup.com/mcandre/boxes/vagrant-openbsd-cpp-amd64
+* https://app.vagrantup.com/mcandre/boxes/vagrant-openbsd-cpp-i386
 
 # EXAMPLE
 
